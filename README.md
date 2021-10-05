@@ -14,3 +14,8 @@ This is only for logic related resources to learn and check whenever we need in 
 
 
 # Resources You can Add ☘️
+
+- ReactJS
+- NextJS
+- TailwindCSS
+- JavaScript
