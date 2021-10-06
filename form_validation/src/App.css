@@ -1,0 +1,12 @@
+header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.invalid-feedback {
+  display: block !important;
+  font-size: 18px;
+}
